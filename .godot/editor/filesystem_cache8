@@ -1,0 +1,363 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1713909756
+icon.svg::CompressedTexture2D::2525938041909637066::1713382943::1713909757::1::::<><>::
+README.md::TextFile::-1::1713909669::0::1::::<><>::
+::res://Assets/::1713909353
+::res://Assets/Captain Clown Nose/::1713383215
+::res://Assets/Captain Clown Nose/Aseprite/::1713383215
+::res://Assets/Captain Clown Nose/Sprites/::1713383215
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/::1713383215
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/::1713383215
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/09-Idle Sword/::1713383221
+Idle Sword 01.png::CompressedTexture2D::5826965341807908026::1713383215::1713909757::1::::<><>::
+Idle Sword 02.png::CompressedTexture2D::722132840116653312::1713383215::1713909757::1::::<><>::
+Idle Sword 03.png::CompressedTexture2D::6076701257341242762::1713383215::1713909757::1::::<><>::
+Idle Sword 04.png::CompressedTexture2D::7507938032573094802::1713383215::1713909757::1::::<><>::
+Idle Sword 05.png::CompressedTexture2D::451528057434117811::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/10-Run Sword/::1713383221
+Run Sword 01.png::CompressedTexture2D::2120839846395343199::1713383215::1713909757::1::::<><>::
+Run Sword 02.png::CompressedTexture2D::8476868549441480166::1713383215::1713909757::1::::<><>::
+Run Sword 03.png::CompressedTexture2D::2296827874243619654::1713383215::1713909757::1::::<><>::
+Run Sword 04.png::CompressedTexture2D::884594109061650355::1713383215::1713909757::1::::<><>::
+Run Sword 05.png::CompressedTexture2D::766209718673526350::1713383215::1713909757::1::::<><>::
+Run Sword 06.png::CompressedTexture2D::8198567018343470920::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/11-Jump Sword/::1713383221
+Jump Sword 01.png::CompressedTexture2D::2690636022767495758::1713383215::1713909757::1::::<><>::
+Jump Sword 02.png::CompressedTexture2D::3654530810125197857::1713383215::1713909757::1::::<><>::
+Jump Sword 03.png::CompressedTexture2D::2189392619152341317::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/12-Fall Sword/::1713383221
+Fall Sword 01.png::CompressedTexture2D::5841442289639186468::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/13-Ground Sword/::1713383221
+Ground Sword 01.png::CompressedTexture2D::4130768289652475808::1713383215::1713909757::1::::<><>::
+Ground Sword 02.png::CompressedTexture2D::745360139775783857::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/14-Hit Sword/::1713383221
+Hit Sword 01.png::CompressedTexture2D::6809961733835589534::1713383215::1713909757::1::::<><>::
+Hit Sword 02.png::CompressedTexture2D::6752361783855806601::1713383215::1713909757::1::::<><>::
+Hit Sword 03.png::CompressedTexture2D::3254369964269954712::1713383215::1713909757::1::::<><>::
+Hit Sword 04.png::CompressedTexture2D::3500754921201865035::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/15-Attack 1/::1713383221
+Attack 1 01.png::CompressedTexture2D::6253275013278756899::1713383215::1713909757::1::::<><>::
+Attack 1 02.png::CompressedTexture2D::1605539284598617900::1713383215::1713909757::1::::<><>::
+Attack 1 03.png::CompressedTexture2D::2188358660193234694::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/16-Attack 2/::1713383221
+Attack 2 01.png::CompressedTexture2D::8556347618269324547::1713383215::1713909757::1::::<><>::
+Attack 2 02.png::CompressedTexture2D::7327266541643934027::1713383215::1713909757::1::::<><>::
+Attack 2 03.png::CompressedTexture2D::6591290225621081817::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/17-Attack 3/::1713383221
+Attack 3 01.png::CompressedTexture2D::6852890181089599260::1713383215::1713909757::1::::<><>::
+Attack 3 02.png::CompressedTexture2D::5151368533368066983::1713383215::1713909757::1::::<><>::
+Attack 3 03.png::CompressedTexture2D::7993417483313034820::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/18-Air Attack 1/::1713383221
+Air Attack 1 01.png::CompressedTexture2D::7639609009682478073::1713383215::1713909757::1::::<><>::
+Air Attack 1 02.png::CompressedTexture2D::2755398507602643713::1713383215::1713909757::1::::<><>::
+Air Attack 1 03.png::CompressedTexture2D::66868133727296744::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/19-Air Attack 2/::1713383221
+Air Attack 2 01.png::CompressedTexture2D::197829757540074175::1713383215::1713909757::1::::<><>::
+Air Attack 2 02.png::CompressedTexture2D::7482353166226680649::1713383215::1713909757::1::::<><>::
+Air Attack 2 03.png::CompressedTexture2D::4072681703360532824::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/20-Throw Sword/::1713383221
+Throw Sword 01.png::CompressedTexture2D::7294493920580602385::1713383215::1713909757::1::::<><>::
+Throw Sword 02.png::CompressedTexture2D::5969696604241007842::1713383215::1713909757::1::::<><>::
+Throw Sword 03.png::CompressedTexture2D::2251625999529809242::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/::1713383215
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/::1713477566
+Idle 01.png::CompressedTexture2D::6936508020465786333::1713383215::1713909757::1::::<><>::
+Idle 02.png::CompressedTexture2D::3694040764133854929::1713383215::1713909757::1::::<><>::
+Idle 03.png::CompressedTexture2D::7169162084749190117::1713383215::1713909757::1::::<><>::
+Idle 04.png::CompressedTexture2D::8025679882901469995::1713383215::1713909757::1::::<><>::
+Idle 05.png::CompressedTexture2D::3982869166492509741::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Palm Tree Island/::1713477566
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Palm Tree Island/Aseprite/::1713477566
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Palm Tree Island/Sprites/::1713477566
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Palm Tree Island/Sprites/Back Palm Trees/::1713477566
+Back Palm Tree Left 01.png::CompressedTexture2D::5507216822279112371::1713477566::1713909757::1::::<><>::
+Back Palm Tree Left 02.png::CompressedTexture2D::477080042518953304::1713477566::1713909757::1::::<><>::
+Back Palm Tree Left 03.png::CompressedTexture2D::2954606792235433453::1713477566::1713909757::1::::<><>::
+Back Palm Tree Left 04.png::CompressedTexture2D::8802763039551062855::1713477566::1713909757::1::::<><>::
+Back Palm Tree Regular 01.png::CompressedTexture2D::1146992236045406157::1713477566::1713909757::1::::<><>::
+Back Palm Tree Regular 02.png::CompressedTexture2D::2998383535546939865::1713477566::1713909757::1::::<><>::
+Back Palm Tree Regular 03.png::CompressedTexture2D::3040821437186475698::1713477566::1713909757::1::::<><>::
+Back Palm Tree Regular 04.png::CompressedTexture2D::5499937112766989563::1713477566::1713909757::1::::<><>::
+Back Palm Tree Right 01.png::CompressedTexture2D::1234153516751930967::1713477566::1713909757::1::::<><>::
+Back Palm Tree Right 02.png::CompressedTexture2D::6383129614492420603::1713477566::1713909757::1::::<><>::
+Back Palm Tree Right 03.png::CompressedTexture2D::9062751877274691828::1713477566::1713909757::1::::<><>::
+Back Palm Tree Right 04.png::CompressedTexture2D::4564772073919988519::1713477566::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Palm Tree Island/Sprites/Background/::1713477567
+Additional Sky.png::CompressedTexture2D::8632729134686175449::1713477566::1713909757::1::::<><>::
+Additional Water.png::CompressedTexture2D::7539718665498389400::1713477566::1713909757::1::::<><>::
+BG Image.png::CompressedTexture2D::4693108516050733044::1713477566::1713909757::1::::<><>::
+Big Clouds.png::CompressedTexture2D::7862280509665045964::1713477566::1713909757::1::::<><>::
+Small Cloud 1.png::CompressedTexture2D::3258985564774607636::1713477566::1713909757::1::::<><>::
+Small Cloud 2.png::CompressedTexture2D::5472818075428967680::1713477566::1713909757::1::::<><>::
+Small Cloud 3.png::CompressedTexture2D::7915365649257952949::1713477566::1713909757::1::::<><>::
+Water Reflect Big 01.png::CompressedTexture2D::4105594052754164465::1713477566::1713909757::1::::<><>::
+Water Reflect Big 02.png::CompressedTexture2D::2397056616707239973::1713477566::1713909757::1::::<><>::
+Water Reflect Big 03.png::CompressedTexture2D::5017912542889706185::1713477566::1713909757::1::::<><>::
+Water Reflect Big 04.png::CompressedTexture2D::8244677467571859230::1713477566::1713909757::1::::<><>::
+Water Reflect Medium 01.png::CompressedTexture2D::1950703365624276757::1713477566::1713909757::1::::<><>::
+Water Reflect Medium 02.png::CompressedTexture2D::7839730435241055730::1713477566::1713909757::1::::<><>::
+Water Reflect Medium 03.png::CompressedTexture2D::3470812839451535763::1713477566::1713909757::1::::<><>::
+Water Reflect Medium 04.png::CompressedTexture2D::3780286960547857685::1713477566::1713909757::1::::<><>::
+Water Reflect Small 01.png::CompressedTexture2D::838494525522766077::1713477566::1713909757::1::::<><>::
+Water Reflect Small 02.png::CompressedTexture2D::4098676104467285263::1713477566::1713909757::1::::<><>::
+Water Reflect Small 03.png::CompressedTexture2D::3254822527798313614::1713477566::1713909757::1::::<><>::
+Water Reflect Small 04.png::CompressedTexture2D::5789516708254981546::1713477566::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Palm Tree Island/Sprites/Front Palm Trees/::1713477567
+Front Palm Bottom and Grass (32x32).png::CompressedTexture2D::2312253539184412591::1713477566::1713909757::1::::<><>::
+Front Palm Tree Top 01.png::CompressedTexture2D::7338389106048241276::1713477566::1713909757::1::::<><>::
+Front Palm Tree Top 02.png::CompressedTexture2D::3805784726112059849::1713477566::1713909757::1::::<><>::
+Front Palm Tree Top 03.png::CompressedTexture2D::3812997854655402009::1713477566::1713909757::1::::<><>::
+Front Palm Tree Top 04.png::CompressedTexture2D::3352007971768126922::1713477566::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Palm Tree Island/Sprites/Objects/::1713477566
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Palm Tree Island/Sprites/Objects/Chest/::1713477566
+Chest Close 01.png::CompressedTexture2D::912241157066710682::1713477566::1713909757::1::::<><>::
+Chest Close 02.png::CompressedTexture2D::6265498275977858428::1713477566::1713909757::1::::<><>::
+Chest Close 03.png::CompressedTexture2D::1088330226224283126::1713477566::1713909757::1::::<><>::
+Chest Close 04.png::CompressedTexture2D::8788651037463263940::1713477566::1713909757::1::::<><>::
+Chest Close 05.png::CompressedTexture2D::4896954720821385447::1713477566::1713909757::1::::<><>::
+Chest Close 06.png::CompressedTexture2D::7869249046221772186::1713477566::1713909757::1::::<><>::
+Chest Close 07.png::CompressedTexture2D::1009206815296057784::1713477566::1713909757::1::::<><>::
+Chest Close 08.png::CompressedTexture2D::2677875805177070650::1713477566::1713909757::1::::<><>::
+Chest Close 09.png::CompressedTexture2D::3526656819869113846::1713477566::1713909757::1::::<><>::
+Chest Close 10.png::CompressedTexture2D::5978596882412615914::1713477566::1713909757::1::::<><>::
+Chest Open 01.png::CompressedTexture2D::6833112893837313558::1713477566::1713909757::1::::<><>::
+Chest Open 02.png::CompressedTexture2D::3534366115660165751::1713477566::1713909757::1::::<><>::
+Chest Open 03.png::CompressedTexture2D::5650850635720544641::1713477566::1713909757::1::::<><>::
+Chest Open 04.png::CompressedTexture2D::5835489770841067551::1713477566::1713909757::1::::<><>::
+Chest Open 05.png::CompressedTexture2D::9149640330528569287::1713477566::1713909757::1::::<><>::
+Chest Open 06.png::CompressedTexture2D::1314011240083026012::1713477566::1713909757::1::::<><>::
+Chest Open 07.png::CompressedTexture2D::5606328803741709265::1713477566::1713909757::1::::<><>::
+Chest Open 08.png::CompressedTexture2D::2782033706715733156::1713477566::1713909757::1::::<><>::
+Chest Open 09.png::CompressedTexture2D::2499725817467176109::1713477566::1713909757::1::::<><>::
+Chest Open 10.png::CompressedTexture2D::6095995711043359953::1713477566::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Palm Tree Island/Sprites/Objects/Flag/::1713477566
+Flag 01.png::CompressedTexture2D::7805149065023432954::1713477566::1713909757::1::::<><>::
+Flag 02.png::CompressedTexture2D::5355012586394224323::1713477566::1713909757::1::::<><>::
+Flag 03.png::CompressedTexture2D::46371248884776971::1713477566::1713909757::1::::<><>::
+Flag 04.png::CompressedTexture2D::6643902747679310903::1713477566::1713909757::1::::<><>::
+Flag 05.png::CompressedTexture2D::2576828400636891402::1713477566::1713909757::1::::<><>::
+Flag 06.png::CompressedTexture2D::3574729545446378063::1713477566::1713909757::1::::<><>::
+Flag 07.png::CompressedTexture2D::6186599966904626766::1713477566::1713909757::1::::<><>::
+Flag 08.png::CompressedTexture2D::6141694084727313767::1713477566::1713909757::1::::<><>::
+Flag 09.png::CompressedTexture2D::7073981973955385921::1713477566::1713909757::1::::<><>::
+Platform.png::CompressedTexture2D::5669161642964013123::1713477566::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Palm Tree Island/Sprites/Objects/Ship Helm/::1713477566
+Ship Helm Idle 01.png::CompressedTexture2D::5581083739264204178::1713477566::1713909757::1::::<><>::
+Ship Helm Idle 02.png::CompressedTexture2D::4554099301371158603::1713477566::1713909757::1::::<><>::
+Ship Helm Idle 03.png::CompressedTexture2D::2841701283084462645::1713477566::1713909757::1::::<><>::
+Ship Helm Idle 04.png::CompressedTexture2D::2728412779026612153::1713477566::1713909757::1::::<><>::
+Ship Helm Idle 05.png::CompressedTexture2D::6978994542565170381::1713477566::1713909757::1::::<><>::
+Ship Helm Idle 06.png::CompressedTexture2D::4760981769533574323::1713477566::1713909757::1::::<><>::
+Ship Helm Turn 01.png::CompressedTexture2D::3009862135823357::1713477566::1713909757::1::::<><>::
+Ship Helm Turn 02.png::CompressedTexture2D::8923399179240982741::1713477566::1713909757::1::::<><>::
+Ship Helm Turn 03.png::CompressedTexture2D::1437023637064616015::1713477566::1713909757::1::::<><>::
+Ship Helm Turn 04.png::CompressedTexture2D::6773245152893042442::1713477566::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Palm Tree Island/Sprites/Objects/Spikes/::1713477566
+Spikes.png::CompressedTexture2D::7756546762026373978::1713477566::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Palm Tree Island/Sprites/Terrain/::1713477566
+Terrain (32x32).png::CompressedTexture2D::4736748665279408401::1713477566::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/::1713383221
+Run 01.png::CompressedTexture2D::5792863202049759403::1713383215::1713909757::1::::<><>::
+Run 02.png::CompressedTexture2D::4451216481628135531::1713383215::1713909757::1::::<><>::
+Run 03.png::CompressedTexture2D::6780830078260313235::1713383215::1713909757::1::::<><>::
+Run 04.png::CompressedTexture2D::3592541995941522800::1713383215::1713909757::1::::<><>::
+Run 05.png::CompressedTexture2D::3324111744056202465::1713383215::1713909757::1::::<><>::
+Run 06.png::CompressedTexture2D::879538469740747320::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/::1713383221
+Jump 01.png::CompressedTexture2D::1232144805468504056::1713383215::1713909757::1::::<><>::
+Jump 02.png::CompressedTexture2D::1856229871163698806::1713383215::1713909757::1::::<><>::
+Jump 03.png::CompressedTexture2D::3452567829275810933::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/04-Fall/::1713383221
+Fall 01.png::CompressedTexture2D::8380620314145286962::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/05-Ground/::1713383221
+Ground 01.png::CompressedTexture2D::7122866490743081296::1713383215::1713909757::1::::<><>::
+Ground 02.png::CompressedTexture2D::2753018419195523992::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/06-Hit/::1713383221
+Hit 01.png::CompressedTexture2D::3766778827103903252::1713383215::1713909757::1::::<><>::
+Hit 02.png::CompressedTexture2D::5439877050890962044::1713383215::1713909757::1::::<><>::
+Hit 03.png::CompressedTexture2D::2384420309599909231::1713383215::1713909757::1::::<><>::
+Hit 04.png::CompressedTexture2D::3194957352323726143::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/07-Dead Hit/::1713383221
+Dead Hit 01.png::CompressedTexture2D::6119436254009359768::1713383215::1713909757::1::::<><>::
+Dead Hit 02.png::CompressedTexture2D::8207890764845611993::1713383215::1713909757::1::::<><>::
+Dead Hit 03.png::CompressedTexture2D::8725441451105051409::1713383215::1713909757::1::::<><>::
+Dead Hit 04.png::CompressedTexture2D::6125343940301073074::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/08-Dead Ground/::1713383221
+Dead Ground 01.png::CompressedTexture2D::6134864181928303917::1713383215::1713909757::1::::<><>::
+Dead Ground 02.png::CompressedTexture2D::9182018154475807472::1713383215::1713909757::1::::<><>::
+Dead Ground 03.png::CompressedTexture2D::5303520645282175284::1713383215::1713909757::1::::<><>::
+Dead Ground 04.png::CompressedTexture2D::3612107520068194779::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Sword/::1713383215
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Sword/21-Sword Idle/::1713383221
+Sword Idle 01.png::CompressedTexture2D::3757008299785063442::1713383215::1713909757::1::::<><>::
+Sword Idle 02.png::CompressedTexture2D::2585858937220791782::1713383215::1713909757::1::::<><>::
+Sword Idle 03.png::CompressedTexture2D::5488872938391314357::1713383215::1713909757::1::::<><>::
+Sword Idle 04.png::CompressedTexture2D::7661390500941242469::1713383215::1713909757::1::::<><>::
+Sword Idle 05.png::CompressedTexture2D::640334984240773234::1713383215::1713909757::1::::<><>::
+Sword Idle 06.png::CompressedTexture2D::6830365040344565686::1713383215::1713909757::1::::<><>::
+Sword Idle 07.png::CompressedTexture2D::5693331499092522826::1713383215::1713909757::1::::<><>::
+Sword Idle 08.png::CompressedTexture2D::6291987415915926425::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Sword/22-Sword Spinning/::1713383221
+Sword Spinning 01.png::CompressedTexture2D::228320696907385795::1713383215::1713909757::1::::<><>::
+Sword Spinning 02.png::CompressedTexture2D::946885469763647653::1713383215::1713909757::1::::<><>::
+Sword Spinning 03.png::CompressedTexture2D::7428342776390136037::1713383215::1713909757::1::::<><>::
+Sword Spinning 04.png::CompressedTexture2D::1740886540324057225::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Sword/23-Sword Embedded/::1713383221
+Sword Embedded 01.png::CompressedTexture2D::7122365299430324850::1713383215::1713909757::1::::<><>::
+Sword Embedded 02.png::CompressedTexture2D::615242311460668637::1713383215::1713909757::1::::<><>::
+Sword Embedded 03.png::CompressedTexture2D::1571578374770059336::1713383215::1713909757::1::::<><>::
+Sword Embedded 04.png::CompressedTexture2D::3416783878651358128::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Sword Effects/::1713383215
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Sword Effects/24-Attack 1/::1713383221
+Attack 1 01.png::CompressedTexture2D::6222654836110219634::1713383215::1713909757::1::::<><>::
+Attack 1 02.png::CompressedTexture2D::7210120256959662912::1713383215::1713909757::1::::<><>::
+Attack 1 03.png::CompressedTexture2D::3197737067030048149::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Sword Effects/25-Attack 2/::1713383221
+Attack 2 01.png::CompressedTexture2D::4722343568104967577::1713383215::1713909757::1::::<><>::
+Attack 2 02.png::CompressedTexture2D::268380470267711161::1713383215::1713909757::1::::<><>::
+Attack 2 03.png::CompressedTexture2D::2941417229489015041::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Sword Effects/26-Attack 3/::1713383221
+Attack 3 01.png::CompressedTexture2D::8987514654645376874::1713383215::1713909757::1::::<><>::
+Attack 3 02.png::CompressedTexture2D::7937768278902513483::1713383215::1713909757::1::::<><>::
+Attack 3 03.png::CompressedTexture2D::2851333376307253218::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Sword Effects/27-Air Attack 1/::1713383221
+Air Attack 1 01.png::CompressedTexture2D::1238758325407643771::1713383215::1713909757::1::::<><>::
+Air Attack 1 02.png::CompressedTexture2D::1102453696218588927::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Sword Effects/28-Air Attack 2/::1713383221
+Air Attack 2 01.png::CompressedTexture2D::4370699924004514600::1713383215::1713909757::1::::<><>::
+Air Attack 2 02.png::CompressedTexture2D::390869287175948965::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Dialogue/::1713383215
+::res://Assets/Captain Clown Nose/Sprites/Dialogue/Dead/::1713383221
+Dead In 01.png::CompressedTexture2D::4368495051937428589::1713383215::1713909757::1::::<><>::
+Dead In 02.png::CompressedTexture2D::1722872257098467213::1713383215::1713909757::1::::<><>::
+Dead In 03.png::CompressedTexture2D::5212055932810209337::1713383215::1713909757::1::::<><>::
+Dead Out 01.png::CompressedTexture2D::7514187930975901760::1713383215::1713909757::1::::<><>::
+Dead Out 02.png::CompressedTexture2D::9198875884757086189::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Dialogue/Exclamation/::1713383221
+Exclamation In 01.png::CompressedTexture2D::3817031985536407071::1713383215::1713909757::1::::<><>::
+Exclamation In 02.png::CompressedTexture2D::1101210065713868044::1713383215::1713909757::1::::<><>::
+Exclamation In 03.png::CompressedTexture2D::6268075656797831804::1713383215::1713909757::1::::<><>::
+Exclamation Out 01.png::CompressedTexture2D::5210793105822643843::1713383215::1713909757::1::::<><>::
+Exclamation Out 02.png::CompressedTexture2D::437438494691124136::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Dialogue/Interrogation/::1713383221
+Interrogation In 01.png::CompressedTexture2D::2092817002113929685::1713383215::1713909757::1::::<><>::
+Interrogation In 02.png::CompressedTexture2D::6099212648447761315::1713383215::1713909757::1::::<><>::
+Interrogation In 03.png::CompressedTexture2D::4261963778693899199::1713383215::1713909757::1::::<><>::
+Interrogation Out 01.png::CompressedTexture2D::8855987749037346261::1713383215::1713909757::1::::<><>::
+Interrogation Out 02.png::CompressedTexture2D::6755267346259899186::1713383215::1713909757::1::::<><>::
+::res://Assets/Captain Clown Nose/Sprites/Dust Particles/::1713383221
+Fall 01.png::CompressedTexture2D::4299572230453719991::1713383215::1713909757::1::::<><>::
+Fall 02.png::CompressedTexture2D::8368106457914382612::1713383215::1713909757::1::::<><>::
+Fall 03.png::CompressedTexture2D::6768465794031289384::1713383215::1713909757::1::::<><>::
+Fall 04.png::CompressedTexture2D::6905224806601579380::1713383215::1713909757::1::::<><>::
+Fall 05.png::CompressedTexture2D::4990511709820721801::1713383215::1713909757::1::::<><>::
+Jump 01.png::CompressedTexture2D::2765206413742709310::1713383215::1713909757::1::::<><>::
+Jump 02.png::CompressedTexture2D::2937743465877415593::1713383215::1713909757::1::::<><>::
+Jump 03.png::CompressedTexture2D::6258092917902372277::1713383215::1713909757::1::::<><>::
+Jump 04.png::CompressedTexture2D::5147905603918538909::1713383215::1713909757::1::::<><>::
+Jump 05.png::CompressedTexture2D::4102358959331661971::1713383215::1713909757::1::::<><>::
+Jump 06.png::CompressedTexture2D::1830447829880818192::1713383215::1713909757::1::::<><>::
+Run 01.png::CompressedTexture2D::2057620851209539661::1713383215::1713909757::1::::<><>::
+Run 02.png::CompressedTexture2D::7476846465785769790::1713383215::1713909757::1::::<><>::
+Run 03.png::CompressedTexture2D::6957993942237660743::1713383215::1713909757::1::::<><>::
+Run 04.png::CompressedTexture2D::7454053597097359772::1713383215::1713909757::1::::<><>::
+Run 05.png::CompressedTexture2D::6712378968207545843::1713383215::1713909757::1::::<><>::
+::res://Assets/Palm Tree Island/::1713477605
+::res://Assets/Palm Tree Island/Aseprite/::1713477605
+::res://Assets/Palm Tree Island/Sprites/::1713477605
+::res://Assets/Palm Tree Island/Sprites/Back Palm Trees/::1713477605
+Back Palm Tree Left 01.png::CompressedTexture2D::3350861268174344303::1713477605::1713909757::1::::<><>::
+Back Palm Tree Left 02.png::CompressedTexture2D::357146812645537757::1713477605::1713909757::1::::<><>::
+Back Palm Tree Left 03.png::CompressedTexture2D::7272430212667782824::1713477605::1713909757::1::::<><>::
+Back Palm Tree Left 04.png::CompressedTexture2D::5631505974084265262::1713477605::1713909757::1::::<><>::
+Back Palm Tree Regular 01.png::CompressedTexture2D::261333273721558622::1713477605::1713909757::1::::<><>::
+Back Palm Tree Regular 02.png::CompressedTexture2D::6745062697804071506::1713477605::1713909757::1::::<><>::
+Back Palm Tree Regular 03.png::CompressedTexture2D::558975269855712866::1713477605::1713909757::1::::<><>::
+Back Palm Tree Regular 04.png::CompressedTexture2D::462627360040775704::1713477605::1713909757::1::::<><>::
+Back Palm Tree Right 01.png::CompressedTexture2D::4360489549457202880::1713477605::1713909757::1::::<><>::
+Back Palm Tree Right 02.png::CompressedTexture2D::5844659173896562656::1713477605::1713909757::1::::<><>::
+Back Palm Tree Right 03.png::CompressedTexture2D::9029073987254411084::1713477605::1713909757::1::::<><>::
+Back Palm Tree Right 04.png::CompressedTexture2D::7422649251582049080::1713477605::1713909757::1::::<><>::
+::res://Assets/Palm Tree Island/Sprites/Background/::1713477605
+Additional Sky.png::CompressedTexture2D::3916005291076891622::1713477605::1713909757::1::::<><>::
+Additional Water.png::CompressedTexture2D::1774205637326258415::1713477605::1713909757::1::::<><>::
+BG Image.png::CompressedTexture2D::8058623576517575935::1713477605::1713909757::1::::<><>::
+Big Clouds.png::CompressedTexture2D::3780319065651986499::1713477605::1713909757::1::::<><>::
+Small Cloud 1.png::CompressedTexture2D::6482871825991020167::1713477605::1713909757::1::::<><>::
+Small Cloud 2.png::CompressedTexture2D::681204905373208392::1713477605::1713909757::1::::<><>::
+Small Cloud 3.png::CompressedTexture2D::3008964048087240215::1713477605::1713909757::1::::<><>::
+Water Reflect Big 01.png::CompressedTexture2D::3422182838416862465::1713477605::1713909757::1::::<><>::
+Water Reflect Big 02.png::CompressedTexture2D::2332089809102629634::1713477605::1713909757::1::::<><>::
+Water Reflect Big 03.png::CompressedTexture2D::1713660369287746718::1713477605::1713909757::1::::<><>::
+Water Reflect Big 04.png::CompressedTexture2D::8621782297570779204::1713477605::1713909757::1::::<><>::
+Water Reflect Medium 01.png::CompressedTexture2D::5904333255392767823::1713477605::1713909757::1::::<><>::
+Water Reflect Medium 02.png::CompressedTexture2D::7215216653966208982::1713477605::1713909757::1::::<><>::
+Water Reflect Medium 03.png::CompressedTexture2D::884952852182131779::1713477605::1713909757::1::::<><>::
+Water Reflect Medium 04.png::CompressedTexture2D::9077082722660664432::1713477605::1713909757::1::::<><>::
+Water Reflect Small 01.png::CompressedTexture2D::6057573712424246533::1713477605::1713909757::1::::<><>::
+Water Reflect Small 02.png::CompressedTexture2D::5793486647872584506::1713477605::1713909757::1::::<><>::
+Water Reflect Small 03.png::CompressedTexture2D::354503461662543997::1713477605::1713909757::1::::<><>::
+Water Reflect Small 04.png::CompressedTexture2D::8949240945979076902::1713477605::1713909757::1::::<><>::
+::res://Assets/Palm Tree Island/Sprites/Front Palm Trees/::1713477605
+Front Palm Bottom and Grass (32x32).png::CompressedTexture2D::8905027508540672381::1713477605::1713909757::1::::<><>::
+Front Palm Tree Top 01.png::CompressedTexture2D::2334450765926450517::1713477605::1713909757::1::::<><>::
+Front Palm Tree Top 02.png::CompressedTexture2D::5563200894687416809::1713477605::1713909757::1::::<><>::
+Front Palm Tree Top 03.png::CompressedTexture2D::1980566220419254916::1713477605::1713909757::1::::<><>::
+Front Palm Tree Top 04.png::CompressedTexture2D::8277834323498489173::1713477605::1713909757::1::::<><>::
+::res://Assets/Palm Tree Island/Sprites/Objects/::1713477605
+::res://Assets/Palm Tree Island/Sprites/Objects/Chest/::1713477605
+Chest Close 01.png::CompressedTexture2D::3596055942269373297::1713477605::1713909757::1::::<><>::
+Chest Close 02.png::CompressedTexture2D::8886995080251170086::1713477605::1713909757::1::::<><>::
+Chest Close 03.png::CompressedTexture2D::6155720541857578848::1713477605::1713909757::1::::<><>::
+Chest Close 04.png::CompressedTexture2D::8065379049854776685::1713477605::1713909757::1::::<><>::
+Chest Close 05.png::CompressedTexture2D::6532127883213311795::1713477605::1713909757::1::::<><>::
+Chest Close 06.png::CompressedTexture2D::9201325223436784786::1713477605::1713909757::1::::<><>::
+Chest Close 07.png::CompressedTexture2D::6808340631463902375::1713477605::1713909757::1::::<><>::
+Chest Close 08.png::CompressedTexture2D::2197876905480769249::1713477605::1713909757::1::::<><>::
+Chest Close 09.png::CompressedTexture2D::310597950770722541::1713477605::1713909757::1::::<><>::
+Chest Close 10.png::CompressedTexture2D::1724795082679480337::1713477605::1713909757::1::::<><>::
+Chest Open 01.png::CompressedTexture2D::4273606651051324802::1713477605::1713909757::1::::<><>::
+Chest Open 02.png::CompressedTexture2D::4830402369959417920::1713477605::1713909757::1::::<><>::
+Chest Open 03.png::CompressedTexture2D::8630743935098692777::1713477605::1713909757::1::::<><>::
+Chest Open 04.png::CompressedTexture2D::5798846939542364247::1713477605::1713909757::1::::<><>::
+Chest Open 05.png::CompressedTexture2D::7496905152898688877::1713477605::1713909757::1::::<><>::
+Chest Open 06.png::CompressedTexture2D::810193140336489512::1713477605::1713909757::1::::<><>::
+Chest Open 07.png::CompressedTexture2D::7870488586439894561::1713477605::1713909757::1::::<><>::
+Chest Open 08.png::CompressedTexture2D::6931079972142219796::1713477605::1713909757::1::::<><>::
+Chest Open 09.png::CompressedTexture2D::3811227196531425312::1713477605::1713909757::1::::<><>::
+Chest Open 10.png::CompressedTexture2D::2088281573866337760::1713477605::1713909757::1::::<><>::
+::res://Assets/Palm Tree Island/Sprites/Objects/Flag/::1713477605
+Flag 01.png::CompressedTexture2D::1425974352851615467::1713477605::1713909757::1::::<><>::
+Flag 02.png::CompressedTexture2D::8326031970739520793::1713477605::1713909757::1::::<><>::
+Flag 03.png::CompressedTexture2D::5394193151888711376::1713477605::1713909757::1::::<><>::
+Flag 04.png::CompressedTexture2D::221941786636457458::1713477605::1713909757::1::::<><>::
+Flag 05.png::CompressedTexture2D::5093261279495467347::1713477605::1713909757::1::::<><>::
+Flag 06.png::CompressedTexture2D::6015305762518708874::1713477605::1713909757::1::::<><>::
+Flag 07.png::CompressedTexture2D::3213711254233964962::1713477605::1713909757::1::::<><>::
+Flag 08.png::CompressedTexture2D::6265571895602814412::1713477605::1713909757::1::::<><>::
+Flag 09.png::CompressedTexture2D::7019507691171023545::1713477605::1713909757::1::::<><>::
+Platform.png::CompressedTexture2D::5331624955011510165::1713477605::1713909757::1::::<><>::
+::res://Assets/Palm Tree Island/Sprites/Objects/Ship Helm/::1713477605
+Ship Helm Idle 01.png::CompressedTexture2D::1992610869779238813::1713477605::1713909757::1::::<><>::
+Ship Helm Idle 02.png::CompressedTexture2D::857661255543151887::1713477605::1713909757::1::::<><>::
+Ship Helm Idle 03.png::CompressedTexture2D::3286745452830479067::1713477605::1713909757::1::::<><>::
+Ship Helm Idle 04.png::CompressedTexture2D::6313839784187269303::1713477605::1713909757::1::::<><>::
+Ship Helm Idle 05.png::CompressedTexture2D::2685332838845147006::1713477605::1713909757::1::::<><>::
+Ship Helm Idle 06.png::CompressedTexture2D::3375700460748326729::1713477605::1713909757::1::::<><>::
+Ship Helm Turn 01.png::CompressedTexture2D::7050770965445515523::1713477605::1713909757::1::::<><>::
+Ship Helm Turn 02.png::CompressedTexture2D::7959361132661755055::1713477605::1713909757::1::::<><>::
+Ship Helm Turn 03.png::CompressedTexture2D::4888160994954742116::1713477605::1713909757::1::::<><>::
+Ship Helm Turn 04.png::CompressedTexture2D::7356110356395464140::1713477605::1713909757::1::::<><>::
+::res://Assets/Palm Tree Island/Sprites/Objects/Spikes/::1713477605
+Spikes.png::CompressedTexture2D::3337192556617022724::1713477605::1713909757::1::::<><>::
+::res://Assets/Palm Tree Island/Sprites/Terrain/::1713477605
+Terrain (32x32).png::CompressedTexture2D::6119285591971786671::1713477605::1713909757::1::::<><>::
+::res://Scenes/::1713909581
+main.tscn::PackedScene::1384060434051674652::1713909581::0::1::::<><>::res://Scenes/scripts/Player/Player.gd<>uid://ctgh0fbvtntsh::::res://Assets/Palm Tree Island/Sprites/Terrain/Terrain (32x32).png<>uid://c53djkl7p4xon::::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 01.png<>uid://drnvuer4nj37k::::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/04-Fall/Fall 01.png<>uid://bsvokukidpgib::::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 02.png<>uid://dae2b1ib78mh6::::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 03.png<>uid://dmlx1mays7a5p::::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 04.png<>uid://bw0ljj5rof5w8::::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 05.png<>uid://rs4ilevm4s8g::::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/Jump 01.png<>uid://1pf3naf48jry::::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/Jump 02.png<>uid://bpgpj1uu4orhd::::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/Jump 03.png<>uid://cosdu03vg5kxf::::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 01.png<>uid://b4og5dg2134tr::::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 02.png<>uid://c3uxjsqr4xcr8::::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 03.png<>uid://brgiv26fmtxvs::::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 04.png<>uid://bnmhvt13nl1y8::::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 05.png<>uid://msb4t3gsk8d5::::res://Assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 06.png<>res://Scenes/scripts/fsm/fsm.gd
+::res://Scenes/scripts/::1713909353
+::res://Scenes/scripts/fsm/::1713826023
+fsm.gd::GDScript::-1::1713826023::0::1::::FSM<>Node<>::
+state.gd::GDScript::-1::1713825175::0::1::::State<>Node<>::
+::res://Scenes/scripts/Player/::1713824050
+Player.gd::GDScript::-1::1713824050::0::1::::<>CharacterBody2D<>::
+::res://Scripts/::1713382981
